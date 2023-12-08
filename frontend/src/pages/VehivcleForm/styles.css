@@ -1,0 +1,26 @@
+.carForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: start;
+  width: 100%;
+}
+.carForm input{
+    text-align: center;
+    padding: 4px 50px;
+    border: 1px solid black;
+    border-radius: 6px;
+    margin: 7px 0;
+}
+#file{
+    padding: 30px 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+button{
+    margin: 5px 0;
+}
